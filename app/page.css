@@ -1,0 +1,11 @@
+/* Mobile styles */
+@media (min-width: 450px) {
+  .w-1 {
+    width: 35%;
+  }
+}
+@media (max-width: 750px){
+    .w-1{
+        width: 75%;
+    }
+}
